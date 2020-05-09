@@ -8,8 +8,11 @@ import javax.persistence.Table;
 
 import org.hibernate.annotations.GenericGenerator;
 
+import io.swagger.annotations.ApiModel;
+
 @Entity
 @Table(name = "emp")
+@ApiModel(description = "Details about all employees")
 public class Employee {
 
 	@Id
