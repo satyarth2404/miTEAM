@@ -20,5 +20,9 @@ The app's backend is developed using Spring Boot and Spring Data JPA. The angula
 ![image](https://user-images.githubusercontent.com/34190266/80832580-8c528000-8c0a-11ea-9ea3-79a52548d3d9.png)
 
 ## Documentation
-Swagger is used for API Documentation [miTeam API Documentation](http://localhost:8085/swagger-ui.html)
+ Swagger is used for API Documentation. 
+ Follow the steps to view the docs:
+ - Go to the root directory of the project
+ - Execute Command *mvnw package* followed by command *mvnw spring-boot:run*.
+ - Wait for the server to start and click on the following link to view the Documenation:  [Documentation](http://localhost:8085/swagger-ui.html)
 ![image](https://user-images.githubusercontent.com/34190266/81482496-1aef7e80-9255-11ea-98c3-3c8fa5bbd46f.png)
