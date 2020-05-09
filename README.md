@@ -25,4 +25,8 @@ The app's backend is developed using Spring Boot and Spring Data JPA. The angula
  - Go to the root directory of the project
  - Execute Command *mvnw package* followed by command *mvnw spring-boot:run*.
  - Wait for the server to start and click on the following link to view the Documenation:  [Documentation](http://localhost:8085/swagger-ui.html)
-![image](https://user-images.githubusercontent.com/34190266/81482496-1aef7e80-9255-11ea-98c3-3c8fa5bbd46f.png)
+
+
+![image](https://user-images.githubusercontent.com/34190266/81482648-37d88180-9256-11ea-841f-f916178efbd0.png)
+
+
